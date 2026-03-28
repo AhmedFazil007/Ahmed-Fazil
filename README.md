@@ -34,5 +34,5 @@ I enjoy analyzing data to uncover insights and support business decisions.
 
 ## 📫 Contact
 
-* Email: [your-email@example.com](mailto:your-email@example.com)
+* Email: [faziliisd9@gmail.com](mailto:faziliisd9@gmail.com)
 * LinkedIn: (add later if available)
