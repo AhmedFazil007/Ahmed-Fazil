@@ -1,4 +1,4 @@
-# Hi, I'm Fazil 👋
+# Hi, I'm Ahmed 👋
 
 ## 🚀 About Me
 
@@ -34,5 +34,5 @@ I enjoy analyzing data to uncover insights and support business decisions.
 
 ## 📫 Contact
 
-* Email: [faziliisd9@gmail.com](mailto:faziliisd9@gmail.com)
+* Email: [your-email@example.com](https://faziliisd9@gmail.com)
 * LinkedIn: (add later if available)
